@@ -1,6 +1,6 @@
 {
-  "name": "subte_demo",
-  "short_name": "subte_demo",
+  "name": "<Application Name>",
+  "short_name": "<Application Short Name>",
   "theme_color": "#1976d2",
   "background_color": "#fafafa",
   "display": "standalone",
