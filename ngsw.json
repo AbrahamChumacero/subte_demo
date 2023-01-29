@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1674970622041,
+  "timestamp": 1675024792030,
   "index": "/subte_demo/index.html",
   "assetGroups": [
     {
@@ -13,11 +13,11 @@
       "urls": [
         "/subte_demo/favicon.ico",
         "/subte_demo/index.html",
-        "/subte_demo/main.70a1f3a9812c7a4b.js",
+        "/subte_demo/main.b0a0e176eb90e627.js",
         "/subte_demo/manifest.webmanifest",
         "/subte_demo/polyfills.db0c34f303654416.js",
         "/subte_demo/runtime.9adaf55abb477e4f.js",
-        "/subte_demo/styles.a31cc02a15802de6.css"
+        "/subte_demo/styles.dad8dd23eb074b69.css"
       ],
       "patterns": []
     },
@@ -47,7 +47,19 @@
         "/subte_demo/assets/img/bg5.jpg",
         "/subte_demo/assets/img/bg5.png",
         "/subte_demo/assets/json/unidades.json",
-        "/subte_demo/bg.01aeaac459df32b6.png"
+        "/subte_demo/bg.01aeaac459df32b6.png",
+        "/subte_demo/fa-brands-400.0ad87b221b2a302b.woff2",
+        "/subte_demo/fa-brands-400.aaa8e2177da4fbb8.ttf",
+        "/subte_demo/fa-regular-400.0c4a336f909e1eaa.woff2",
+        "/subte_demo/fa-regular-400.f7cc78e99baa2bf5.ttf",
+        "/subte_demo/fa-solid-900.43a87668a828405a.ttf",
+        "/subte_demo/fa-solid-900.71ed02b437225dbb.woff2",
+        "/subte_demo/fa-v4compatibility.2484748dc83e00c0.ttf",
+        "/subte_demo/fa-v4compatibility.3d89958eb70dfc25.woff2",
+        "/subte_demo/fontawesome-webfont.8a7cb27d142e3e19.ttf",
+        "/subte_demo/fontawesome-webfont.cf011583fb81df9f.woff",
+        "/subte_demo/fontawesome-webfont.da909aa098b0ee2d.svg",
+        "/subte_demo/fontawesome-webfont.e9955780856cf8aa.woff2"
       ],
       "patterns": []
     }
@@ -73,13 +85,25 @@
     "/subte_demo/assets/img/bg5.png": "208f24eb5129e1cabd4b6631ee0a0e21f2b18cd5",
     "/subte_demo/assets/json/unidades.json": "2c94a1ba7620df5db75ba09b5ba803486885c323",
     "/subte_demo/bg.01aeaac459df32b6.png": "cf5d74e7f3dc4c4c12c596dc7a39cdebf04b0e23",
+    "/subte_demo/fa-brands-400.0ad87b221b2a302b.woff2": "b99813b3c531d8fe90aed3b75d2ed71f8e0c87f4",
+    "/subte_demo/fa-brands-400.aaa8e2177da4fbb8.ttf": "a14a91d8c170fc9e159040f6794369d829e0859e",
+    "/subte_demo/fa-regular-400.0c4a336f909e1eaa.woff2": "3119676750af0e0bc338cc4aad220bdc72c56cc5",
+    "/subte_demo/fa-regular-400.f7cc78e99baa2bf5.ttf": "dad3ad71b383789bb62c249742ef59e34685e7d0",
+    "/subte_demo/fa-solid-900.43a87668a828405a.ttf": "3eb9b4b2ea22711b96e3b356196fd20b4f17fb0e",
+    "/subte_demo/fa-solid-900.71ed02b437225dbb.woff2": "c0e6e76b4a02c34656ff2a41b671e02f2821829b",
+    "/subte_demo/fa-v4compatibility.2484748dc83e00c0.ttf": "52a84a6495e27f43e9762f2c2a9531d9fe15e9ee",
+    "/subte_demo/fa-v4compatibility.3d89958eb70dfc25.woff2": "dd7e4a76de26e9e39168dfac3fbb8a34a87b76bc",
     "/subte_demo/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "/subte_demo/index.html": "59d869cabc32f4086d567f28e3bd0348242f4da6",
-    "/subte_demo/main.70a1f3a9812c7a4b.js": "87c5389361ac8be2b2afd509610cc7946b761e32",
+    "/subte_demo/fontawesome-webfont.8a7cb27d142e3e19.ttf": "13b1eab65a983c7a73bc7997c479d66943f7c6cb",
+    "/subte_demo/fontawesome-webfont.cf011583fb81df9f.woff": "28b782240b3e76db824e12c02754a9731a167527",
+    "/subte_demo/fontawesome-webfont.da909aa098b0ee2d.svg": "98a8aa5cf7d62c2eff5f07ede8d844b874ef06ed",
+    "/subte_demo/fontawesome-webfont.e9955780856cf8aa.woff2": "d6f48cba7d076fb6f2fd6ba993a75b9dc1ecbf0c",
+    "/subte_demo/index.html": "e2bf0a0cbc551400af45cbb8dfb7902512a7ccea",
+    "/subte_demo/main.b0a0e176eb90e627.js": "2fd3331581c8e2ca011c0e7d5853fb86c0fb45c2",
     "/subte_demo/manifest.webmanifest": "880a2a99b9ca5e4a33d2d28b48c658b5feae7b1f",
     "/subte_demo/polyfills.db0c34f303654416.js": "502fa94da5da5565cf7cd5184a62b3fe4436740e",
     "/subte_demo/runtime.9adaf55abb477e4f.js": "f9570370360d46cc27530fea7465c6dd82738d64",
-    "/subte_demo/styles.a31cc02a15802de6.css": "e94f7ca89bbb4e0ff12dfeb91dbb95a0ce054f3b"
+    "/subte_demo/styles.dad8dd23eb074b69.css": "2a1b108c11e6a32a916857ec642e17d7dec8fa13"
   },
   "navigationUrls": [
     {
