@@ -1,7 +1,8 @@
 {
-    "carritoForm": "En este Formularaio se llenara los datos obligatorios de: Cliente, Productos, los precios ya vienen por defecto, no puedes editarlos",
-    "cliente": "En este segmento Selecciona al Cliente al que ira dirigido el Recibo, Si no esta Registrado has Click! en el boton '¡Registralo!' debajo del campo 'Buscar Cliente'",
-    "carrito": "En este segmento Selecciona el Producto e introduce la cantidad. Si existe descuento introducelo, de lo contrario dejarlo asi",
-    "carritoCargado": "En esta Tabla se cargaran los Productos seleccionados, estos iran en el detalle de la venta, Tenga cuidado a la hora de registrar. Puede agregar algun detalle al final de la tabla, no es necesario",
-    "carritoFinalizar": "Antes de Completar la venta asegurate de que esta bien el pedido, de lo contrario retrocede y corrigelo o cancela la venta"
+    "carritoForm": "En este Formularaio se llenara los datos obligatorios de: Cliente, Productos, los precios ya vienen por defecto, no puedes editarlos.",
+    "cliente": "En este segmento Selecciona al Cliente al que ira dirigido el Recibo, Si no esta Registrado has Click! en el boton '¡Registralo!' debajo del campo 'Buscar Cliente'.",
+    "carrito": "En este segmento Selecciona el Producto e introduce la cantidad. Si existe descuento introducelo, de lo contrario dejarlo asi.",
+    "carritoCargado": "En esta Tabla se cargaran los Productos seleccionados, estos iran en el detalle de la venta, Tenga cuidado a la hora de registrar. Puede agregar algun detalle al final de la tabla, no es necesario.",
+    "carritoFinalizar": "Antes de Completar la venta asegurate de que esta bien el pedido, de lo contrario retrocede y corrigelo o cancela la venta.",
+    "comprobaVenta": "Revisa que la orden este bien, puedes corregir presionando 'Atras', o descartar esta pedido presionando 'Deshacer'."
 }
