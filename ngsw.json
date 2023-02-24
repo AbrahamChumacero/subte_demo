@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1677209150080,
+  "timestamp": 1677209987062,
   "index": "/subte_demo/index.html",
   "assetGroups": [
     {
@@ -13,7 +13,7 @@
       "urls": [
         "/subte_demo/favicon.ico",
         "/subte_demo/index.html",
-        "/subte_demo/main.0b329838af487548.js",
+        "/subte_demo/main.6f845022ba31a96d.js",
         "/subte_demo/manifest.webmanifest",
         "/subte_demo/polyfills.db0c34f303654416.js",
         "/subte_demo/runtime.9adaf55abb477e4f.js",
@@ -110,8 +110,8 @@
     "/subte_demo/fontawesome-webfont.cf011583fb81df9f.woff": "28b782240b3e76db824e12c02754a9731a167527",
     "/subte_demo/fontawesome-webfont.da909aa098b0ee2d.svg": "98a8aa5cf7d62c2eff5f07ede8d844b874ef06ed",
     "/subte_demo/fontawesome-webfont.e9955780856cf8aa.woff2": "d6f48cba7d076fb6f2fd6ba993a75b9dc1ecbf0c",
-    "/subte_demo/index.html": "c160670a8bf52ff474dd53d2b971b78606875a57",
-    "/subte_demo/main.0b329838af487548.js": "52e4d5a705064fa40636e6c42a043ec74318a580",
+    "/subte_demo/index.html": "2ed07998c4c9e32881752b0f3b280030b1bf97b4",
+    "/subte_demo/main.6f845022ba31a96d.js": "7cfe60e34d4d7f63ea6705a8bf3ea601180a8b0b",
     "/subte_demo/manifest.webmanifest": "880a2a99b9ca5e4a33d2d28b48c658b5feae7b1f",
     "/subte_demo/polyfills.db0c34f303654416.js": "502fa94da5da5565cf7cd5184a62b3fe4436740e",
     "/subte_demo/runtime.9adaf55abb477e4f.js": "f9570370360d46cc27530fea7465c6dd82738d64",
