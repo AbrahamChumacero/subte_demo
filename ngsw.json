@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1677211600642,
+  "timestamp": 1677218003177,
   "index": "/subte_demo/index.html",
   "assetGroups": [
     {
@@ -13,7 +13,7 @@
       "urls": [
         "/subte_demo/favicon.ico",
         "/subte_demo/index.html",
-        "/subte_demo/main.b609f6cf486c7b93.js",
+        "/subte_demo/main.57e83121c1eea3d4.js",
         "/subte_demo/manifest.webmanifest",
         "/subte_demo/polyfills.db0c34f303654416.js",
         "/subte_demo/runtime.9adaf55abb477e4f.js",
@@ -70,7 +70,20 @@
       "patterns": []
     }
   ],
-  "dataGroups": [],
+  "dataGroups": [
+    {
+      "name": "api",
+      "patterns": [],
+      "strategy": "freshness",
+      "maxSize": 100,
+      "maxAge": 259200000,
+      "timeoutMs": 10000,
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "version": 1
+    }
+  ],
   "hashTable": {
     "/subte_demo/assets/icons/bg.png": "cf5d74e7f3dc4c4c12c596dc7a39cdebf04b0e23",
     "/subte_demo/assets/icons/bg2.png": "743fcc68b3b7c28afe4a3989c2d1d1ded5f158d9",
@@ -110,8 +123,8 @@
     "/subte_demo/fontawesome-webfont.cf011583fb81df9f.woff": "28b782240b3e76db824e12c02754a9731a167527",
     "/subte_demo/fontawesome-webfont.da909aa098b0ee2d.svg": "98a8aa5cf7d62c2eff5f07ede8d844b874ef06ed",
     "/subte_demo/fontawesome-webfont.e9955780856cf8aa.woff2": "d6f48cba7d076fb6f2fd6ba993a75b9dc1ecbf0c",
-    "/subte_demo/index.html": "d5937bb3a279241b17ea7192a890309f726b6f7c",
-    "/subte_demo/main.b609f6cf486c7b93.js": "e5060a973fe4610a3740cc05514bc5fa224ac9ad",
+    "/subte_demo/index.html": "84bcb3ac8648b62f7d43840544e94d125b351aff",
+    "/subte_demo/main.57e83121c1eea3d4.js": "ee2ab0b9626769fbbe0e3db475e9d1efbb813bec",
     "/subte_demo/manifest.webmanifest": "880a2a99b9ca5e4a33d2d28b48c658b5feae7b1f",
     "/subte_demo/polyfills.db0c34f303654416.js": "502fa94da5da5565cf7cd5184a62b3fe4436740e",
     "/subte_demo/runtime.9adaf55abb477e4f.js": "f9570370360d46cc27530fea7465c6dd82738d64",
