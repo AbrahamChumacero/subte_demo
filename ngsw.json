@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1678775777522,
+  "timestamp": 1678776150058,
   "index": "/subte_demo/index.html",
   "assetGroups": [
     {
@@ -13,7 +13,7 @@
       "urls": [
         "/subte_demo/favicon.ico",
         "/subte_demo/index.html",
-        "/subte_demo/main.f1eed0a9e3f7a733.js",
+        "/subte_demo/main.6754d73d64b16840.js",
         "/subte_demo/manifest.webmanifest",
         "/subte_demo/polyfills.db0c34f303654416.js",
         "/subte_demo/runtime.9adaf55abb477e4f.js",
@@ -64,7 +64,9 @@
         "/subte_demo/assets/img/bg7.jpg",
         "/subte_demo/assets/json/apps.json",
         "/subte_demo/assets/json/toolTips.json",
-        "/subte_demo/assets/json/unidades.json"
+        "/subte_demo/assets/json/unidades.json",
+        "/subte_demo/bg5.0aa2daae4c4e631d.png",
+        "/subte_demo/bgA.5596b5f240a3b658.png"
       ],
       "patterns": []
     }
@@ -120,9 +122,11 @@
     "/subte_demo/assets/json/apps.json": "d93803291d54e56dd9a707a997d7587eea28ae89",
     "/subte_demo/assets/json/toolTips.json": "34eddf7d7337b94d3de89d80679ae3b4b8712aa0",
     "/subte_demo/assets/json/unidades.json": "2c94a1ba7620df5db75ba09b5ba803486885c323",
+    "/subte_demo/bg5.0aa2daae4c4e631d.png": "208f24eb5129e1cabd4b6631ee0a0e21f2b18cd5",
+    "/subte_demo/bgA.5596b5f240a3b658.png": "14ff8c0751e56105b42b7394a805bce7219b7d65",
     "/subte_demo/favicon.ico": "aa3d646ff7ae506899606ba2676eafbd58908e2e",
-    "/subte_demo/index.html": "8bd07d37e1832c1e50663517e33943467ac30a4e",
-    "/subte_demo/main.f1eed0a9e3f7a733.js": "84011c4ababb7df3aa1a11c06624339023dda4f8",
+    "/subte_demo/index.html": "558b3e234e1731ed58a348b4f7f91fd098be3c03",
+    "/subte_demo/main.6754d73d64b16840.js": "34031d5daf7fcb0ebe11420bdf91c1fecd81aaac",
     "/subte_demo/manifest.webmanifest": "880a2a99b9ca5e4a33d2d28b48c658b5feae7b1f",
     "/subte_demo/polyfills.db0c34f303654416.js": "502fa94da5da5565cf7cd5184a62b3fe4436740e",
     "/subte_demo/runtime.9adaf55abb477e4f.js": "f9570370360d46cc27530fea7465c6dd82738d64",
