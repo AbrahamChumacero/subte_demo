@@ -5,7 +5,7 @@
     "carritoCargado": "En esta Tabla se cargaran los Productos seleccionados, estos iran en el detalle de la venta, Tenga cuidado a la hora de registrar. Puede agregar algun detalle al final de la tabla, no es necesario.",
     "carritoFinalizar": "Antes de Completar la venta asegurate de que esta bien el pedido, de lo contrario retrocede y corrigelo o cancela la venta.",
     "comprobaVenta": "Revisa que la orden este bien, puedes corregir presionando 'Atras', o descartar esta pedido presionando 'Deshacer'.",
-    "items": "Aqui podras Ver, Editar, Eliminar o Agregar mas items con el boton '+Nuevo'",
+    "items": "Aqui podras Ver, Editar, Eliminar o Agregar mas items con el boton '+Nuevo, filtrar por fechas entre invervalos'",
     "productos": "Aqui podras Ver, Editar, Eliminar o Agregar mas productos con el boton '+Nuevo' y registrar categorias con el boton '+Categoria'",
     "recetas": "Aqui podras Ver, Editar, Eliminar o Agregar mas Recetas con el boton '+Nuevo' con el boton en forma de ojo podras ver el contenido de cada receta'",
     "inventario": "Grafico del Estado de tu Inventario, ten en cuenta el stock para renovar items",
